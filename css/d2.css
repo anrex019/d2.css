@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#header {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 12px 80px;
+    padding-top: 12px;
+
+}
+
+#spanone {
+    color: #FF5DA3;
+}
+
+#nextmove {
+    vertical-align: middle;
+}
+
+#nav-list,
+#nav-list li {
+    margin: 20px;
+    display: inline-block;
+
+}
+
+#nav-list {
+    vertical-align: middle;
+    margin-left: 85px;
+}
+
+#nav-list li a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #323232;
+}
+
+#button {
+    display: inline-block;
+    margin-left: 179px;
+    padding: 8px 26px;
+    border-radius: 8px;
+    border: 1px solid #AC00FF;
+    background-color: #E9D7FE;
+    color: #AC00FF;
+    align-items: center;
+}
+
+#maindiv {
+    width: 1250px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 221px;
+}
+
+#maindivh {
+    color: #000;
+    font-size: 72px;
+
+}
+
+#becomespan {
+    color: #FF5DA3;
+    font-size: 72px;
+}
+
+#maindivtext {
+    color: #000;
+    text-align: center;
+    font-size: 24px;
+    margin-top: 24px;
+}
+
+#texth {
+    color: #000;
+    text-align: center;
+    font-size: 48px;
+    margin-top: 24px;
+}
+
+#textp {
+    color: #6941C6;
+    text-align: center;
+    max-width: 716px;
+    margin-top: 24px;
+    margin: 0 auto;
+    margin-top: 24px;
+    font-size: 24px;
+}
+
+#becomebutton {
+    padding: 16px 24px;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    background: #00AC25;
+    color: #FFF;
+    margin-top: 24px;
+}
+#footerone {
+    border: 4px #53389e solid;
+    background-color: #53389e;
+    margin-top: 535px;
+    text-align: center;
+   
+}
+
+#imglogo {
+    width: 142px;
+    vertical-align: middle;
+
+}
+
+#listone, #listone li {
+    display: inline-block;
+    margin: 20px;
+    color: white;
+    
+}
+
+#ptext {
+    color: #d6bbfb;
+    vertical-align: middle;
+    display: inline-block;
+    vertical-align: middle;
+}
